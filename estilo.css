@@ -1,0 +1,20 @@
+body{
+  background: url(img/brt.png) no-repeat;
+  background-size: cover;
+  font-family: Impact, Charcoal, sans-serif;
+}
+.conteudo {
+  padding-top: 15%;
+}
+.botao{
+  margin-top: 15%;
+}
+.texto{
+	margin-left: 5%;
+}
+.resumo{
+	border-radius: 25px;
+  	border: 2px solid #ffff00;
+ 	padding: 20px;
+}
+
